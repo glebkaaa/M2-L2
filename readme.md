@@ -9,5 +9,5 @@
   2. Дискорд
   3. Токен бота
   4. Интерпретатор python, версия 3 и выше
-  5. Установленная библиотека discord(Ctrl + `; pip install discord; pip install emoji)
+  5. Установленная библиотека discord(pip install discord; pip install emoji)
   5. Любой редактор кода, для запуска программы
